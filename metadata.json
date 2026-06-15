@@ -1,0 +1,6 @@
+{
+  "name": "Interview Preparation Hub Pro",
+  "description": "An AI-powered interview preparation suite with AI Mock Interviews, technical roadmap generation, behavioral response analyzer, and resume feedback.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
